@@ -4,7 +4,7 @@
   "description": "Interact with the GitHub users API",
   "main": "ghusers.js",
   "scripts": {
-    "test": "node test.js | faucet"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
