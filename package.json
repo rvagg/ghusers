@@ -21,13 +21,10 @@
   },
   "homepage": "https://github.com/rvagg/ghusers",
   "dependencies": {
-    "jsonist": "~1.0.1",
-    "xtend": "~4.0.0"
+    "ghutils": "~1.2.1"
   },
   "devDependencies": {
-    "bl": "~0.9.4",
-    "hyperquest": "~1.2.0",
-    "require-subvert": "~0.1.0",
-    "tape": "~4.0.0"
+    "tape": "~4.0.0",
+    "xtend": "~4.0.0"
   }
 }
