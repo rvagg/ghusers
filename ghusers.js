@@ -1,13 +1,10 @@
-const ghutils = require('ghutils')
+import { ghget } from 'ghutils'
 
+const defaultApiUrl = 'https://api.github.com'
 
-module.exports.get = function get (auth, user, options, callback) {
-  if (typeof options == 'function') {
-    callback = options
-    options  = {}
-  }
-
-  var url = 'https://api.github.com/users/' + user
-
-  ghutils.ghget(auth, url, options, callback)
+export async function get (auth, user, options = {}) {
+  const apiUrl = options._apiUrl || defaultApiUrl
+  const url = `${apiUrl}/users/${user}`
+  const { data } = await ghget(auth, url, options)
+  return data
 }
