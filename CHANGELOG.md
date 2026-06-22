@@ -1,3 +1,9 @@
+## [1.0.4](https://github.com/rvagg/ghusers/compare/v1.0.3...v1.0.4) (2026-06-22)
+
+### Trivial Changes
+
+* **deps:** bump actions/checkout from 6.0.2 to 6.0.3 ([#6](https://github.com/rvagg/ghusers/issues/6)) ([3c1e4ab](https://github.com/rvagg/ghusers/commit/3c1e4ab30a4e0d812835e9addf19caae4ee9d7a3))
+
 ## [1.0.3](https://github.com/rvagg/ghusers/compare/v1.0.2...v1.0.3) (2026-06-04)
 
 ### Trivial Changes
