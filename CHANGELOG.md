@@ -1,8 +1,20 @@
 ## [1.0.8](https://github.com/rvagg/ghusers/compare/v1.0.7...v1.0.8) (2026-07-29)
 
+### Trivial Changes
+
+* **deps:** bump the github-actions-minor-patch group with 2 updates ([#11](https://github.com/rvagg/ghusers/issues/11)) ([9edef01](https://github.com/rvagg/ghusers/commit/9edef01bc4499eeafc1ab1be063d7aa03e908d36))
+
 ## [1.0.7](https://github.com/rvagg/ghusers/compare/v1.0.6...v1.0.7) (2026-07-22)
 
+### Trivial Changes
+
+* **ci:** slow down dependabot, add depsound, pin action hashes ([#10](https://github.com/rvagg/ghusers/issues/10)) ([fbbddc1](https://github.com/rvagg/ghusers/commit/fbbddc1ffeb6d824f6701fc789c5439f554e5b89))
+
 ## [1.0.6](https://github.com/rvagg/ghusers/compare/v1.0.5...v1.0.6) (2026-07-08)
+
+### Trivial Changes
+
+* **deps-dev:** bump conventional-changelog-conventionalcommits from 9.3.1 to 10.2.0 ([9b4e10d](https://github.com/rvagg/ghusers/commit/9b4e10d8a097e09cf4ea73573e17c1d647a11a86))
 
 ## [1.0.5](https://github.com/rvagg/ghusers/compare/v1.0.4...v1.0.5) (2026-06-23)
 
