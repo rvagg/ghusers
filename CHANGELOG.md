@@ -1,3 +1,9 @@
+## [1.0.9](https://github.com/rvagg/ghusers/compare/v1.0.8...v1.0.9) (2026-07-30)
+
+### Trivial Changes
+
+* downgrade broken changelog maker, backfill entries ([#12](https://github.com/rvagg/ghusers/issues/12)) ([1c097d4](https://github.com/rvagg/ghusers/commit/1c097d4e8138aca4efc7eeb344093fe2c647cab3))
+
 ## [1.0.8](https://github.com/rvagg/ghusers/compare/v1.0.7...v1.0.8) (2026-07-29)
 
 ### Trivial Changes

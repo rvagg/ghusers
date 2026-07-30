@@ -1,6 +1,6 @@
 {
   "name": "ghusers",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Interact with the GitHub users API",
   "type": "module",
   "exports": "./ghusers.js",
