@@ -1,3 +1,9 @@
+## [1.0.10](https://github.com/rvagg/ghusers/compare/v1.0.9...v1.0.10) (2026-08-03)
+
+### Trivial Changes
+
+* **deps-dev:** bump @semantic-release/changelog from 6.0.3 to 7.0.0 ([#14](https://github.com/rvagg/ghusers/issues/14)) ([3ef976e](https://github.com/rvagg/ghusers/commit/3ef976e5f86555adaec5d9e0251b7e35cafae68d))
+
 ## [1.0.9](https://github.com/rvagg/ghusers/compare/v1.0.8...v1.0.9) (2026-07-30)
 
 ### Trivial Changes
