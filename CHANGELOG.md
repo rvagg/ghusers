@@ -1,3 +1,9 @@
+## [1.0.11](https://github.com/rvagg/ghusers/compare/v1.0.10...v1.0.11) (2026-08-03)
+
+### Trivial Changes
+
+* **deps-dev:** bump @semantic-release/git from 10.0.1 to 11.0.1 ([#15](https://github.com/rvagg/ghusers/issues/15)) ([b5a513a](https://github.com/rvagg/ghusers/commit/b5a513aa342935d18a72512aa94e65a42089c527))
+
 ## [1.0.10](https://github.com/rvagg/ghusers/compare/v1.0.9...v1.0.10) (2026-08-03)
 
 ### Trivial Changes
