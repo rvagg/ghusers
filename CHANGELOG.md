@@ -1,3 +1,9 @@
+## [1.0.13](https://github.com/rvagg/ghusers/compare/v1.0.12...v1.0.13) (2026-10-19)
+
+### Trivial Changes
+
+* **deps:** bump actions/setup-node ([#19](https://github.com/rvagg/ghusers/issues/19)) ([1a8bd5e](https://github.com/rvagg/ghusers/commit/1a8bd5ee3ba83b941e65cdc96f01fa5bec8a0068))
+
 ## [1.0.12](https://github.com/rvagg/ghusers/compare/v1.0.11...v1.0.12) (2026-08-05)
 
 ### Trivial Changes
