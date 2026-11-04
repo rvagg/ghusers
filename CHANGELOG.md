@@ -1,3 +1,9 @@
+## [1.0.15](https://github.com/rvagg/ghusers/compare/v1.0.14...v1.0.15) (2026-11-04)
+
+### Trivial Changes
+
+* **deps:** bump the github-actions-minor-patch group with 2 updates ([#22](https://github.com/rvagg/ghusers/issues/22)) ([912eb7a](https://github.com/rvagg/ghusers/commit/912eb7a738ed6cc9064f19f3fafcc245b76825c1))
+
 ## [1.0.14](https://github.com/rvagg/ghusers/compare/v1.0.13...v1.0.14) (2026-10-30)
 
 ### Trivial Changes
